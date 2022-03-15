@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center"> Hola Mundo 👋 </h1>
 
-<!--
-**MacarenaRivera/MacarenaRivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Soy Macarena 🌻 Front end Developer
 
-Here are some ideas to get you started:
+- 📚 Egresada de Laboratoria.
+- 🌱 Aprendiz en el mundo de la tecnología pero con muchas ganas de seguir aprendiendo.
+- 💡 Me gusta mucho el diseño, explorar nuevas herramientas y lenguajes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Tecnologías 💻
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+
+
