@@ -2,7 +2,7 @@
 
 ### Soy Macarena 🌻 Front end Developer
 - 📚 Egresada de Laboratoria.
-- 💡  Aprendiz en el mundo de la tecnología pero con muchas ganas de seguir aprendiendo.
+- 💡  Aprendiz en el mundo de la tecnología.
 - 🌱 Actualmente estoy aprendiendo sobre Frameworks, lenguajes, diseño, etc.
 - 💬 Linkedin: https://www.linkedin.com/in/macarenariveraguerra/
 - 📫 Correo: macarenariveraguerra@gmail.com
