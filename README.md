@@ -1,8 +1,6 @@
 <h1 align="center"> Hola Mundo 👋 </h1>
 
 ### Soy Macarena 🌻 Front end Developer
-<br/>
-
 - 📚 Egresada de Laboratoria.
 - 💡  Aprendiz en el mundo de la tecnología pero con muchas ganas de seguir aprendiendo.
 - 🌱 Actualmente estoy aprendiendo sobre Frameworks, lenguajes, diseño, etc.
